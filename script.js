@@ -67,3 +67,9 @@ function suma(num1,num2){
   
   //#endregion
   
+  //#region 
+let numeros= ['papaya', 'guineo', 'frutilla', 'granada'];
+for (i=0;i<3;i++){
+console.log (numeros);    
+}
+//#endregion
